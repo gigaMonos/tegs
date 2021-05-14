@@ -1,0 +1,43 @@
+<body>
+		<h1> Я фрилансер по жизни</h1>
+		<header> шапка сайта
+			<div>содержимое тега</div>
+			<div>соднржимое тега</div>
+		</header>
+		<nav> навигация сайта</nav>
+		<div class="связь с цсс">
+		</div>
+		<footer> отвечает за нижнюю часть сайта</footer>
+</body>
+
+<header>
+	<nav>
+	soderjumoe tega
+	</nav>
+</header>
+		<div>
+			Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam debitis adipisci quae voluptas labore, porro sit sint maiores asperiores illum quasi et reprehenderit voluptatibus vel enim recusandae veniam velit soluta.
+		</div>
+		<div>
+			Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsum, voluptas?
+		</div>
+		<div>
+			Lorem ipsum, dolor sit amet.
+		</div>
+		<footer>
+			содержимое тега
+		</footer>
+
+<a href="">
+			href атрибут который указывает ссылку на документ. допустим картинку файл или сайт.
+			ссылка строчный элемент и внутри него могут быть другиу строчные элименты к примеру текст (который откроет ссылку) изображение и теги. также применяется атрибут target который заставляет открыться ссылку в новом окне
+		</a> 
+<img src="google.png" alt="картинка не заарузилавь"> imgявляется строчным элементом атрибут срц указывает на локальный путь картинки (название картинки на комьютере в папке проэкта) , а альт атрубут текста который увидит поьзователь  в случае если картинка не загрузилась
+
+<ul></ul> маркерованный список  
+		<ol></ol> нумерованный список в каждом из нумерованных тегов ол или ул должен быть тег <li></li>
+		<ul>
+			<li>маркерованный список</li>
+			<li>маркерованный список</li>
+			<li>маркерованный список</li>
+		</ul>
